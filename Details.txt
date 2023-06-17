@@ -1,0 +1,50 @@
+React Overview:
+
+  HTML, CSS(Bootstrap), JS (DOM)
+
+  HTML - Skeleton/Structure
+
+  CSS - Skin/Style/Makeup
+
+  JS - Brain, Even/Behavior/Interaction controller
+
+
+  Node Application:
+
+    npm project ( a simple code setup which allows installation of external packages )
+
+    Creation of npm project:
+      1. create needed folder
+      1. change directory to created folder & npm init
+
+    npm - Node Package Manager
+      npm install <package-name>
+
+      **can be done only in the folder where package.json is there** 
+
+      import the package and use it with require( old syntax )/import
+
+    Eg: lodash --> utility functions for js
+    
+
+
+    npx - Node Package Executable
+      CRA - Create-React-App Executable framework which sets up the react development setup
+    
+    Creating React Application:
+      npx create-react-app <application-name>
+        Sets up the enitre project along with proper folder structure
+
+      starting react applciation:
+        npm start
+
+      import & export   
+        simple, default
+
+      JSX: JS which has html in it
+        javascript xtensible
+
+
+
+
+
