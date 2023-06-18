@@ -6,7 +6,7 @@ React Overview:
 
   CSS - Skin/Style/Makeup
 
-  JS - Brain, Even/Behavior/Interaction controller
+  JS - Brain, Event/Behavior/Interaction controller
 
 
   Node Application:
@@ -23,6 +23,12 @@ React Overview:
       **can be done only in the folder where package.json is there** 
 
       import the package and use it with require( old syntax )/import
+
+  package.json --> information about npm project
+
+  package-lock.json --> file which keeps tracking of the package installed and their dependencies
+
+  node_modules --> js file & function used by the project ( should not be pushed to github )
 
     Eg: lodash --> utility functions for js
     
